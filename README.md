@@ -1,0 +1,2 @@
+# cardPikachu
+Card Pokemon principiante
